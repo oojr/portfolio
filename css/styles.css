@@ -1,0 +1,42 @@
+body{
+	position: relative;
+	padding: 0;
+	background-color: #eee; 
+	font-family: Source Sans Pro;
+
+}
+h1,h4,h5{
+	font-family: Source Sans Pro;
+}
+.text-center{
+	text-align: center;
+}
+.smallimg{
+	max-width: 140px;
+	max-height: 100px;
+}
+.header{
+	min-height: 40px;
+	text-align: center;
+	background-color: #2980B9;
+	color:white;
+	margin-top: 0;
+}
+
+.header h1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+}
+.aside .aside-dialog .aside-header {
+background: #2980B9;
+
+}
+.aside{
+	max-width: 320px;
+}
+
+.long-desc{
+
+	padding-top: 10px;
+}
