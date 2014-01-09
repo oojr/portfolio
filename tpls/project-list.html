@@ -1,0 +1,19 @@
+
+  <div class="container">
+  	<div class="row">
+  	  <div class="col-md-3" ng-repeat="project in projects">
+  		<div class="thumbnail">
+  		  <h5 class="text-center"><strong>{{project.title}}</strong></h5>
+            <img class="smallimg" ng-src="{{project.img}}" alt="...">
+              <div class="caption">
+                <p class="text-center">{{project.shortdesc}}</p>
+                <p><button data-placement="left" data-template="tpls/project-detail.html"data-animation="animation-fadeAndSlideLeft" bs-aside="aside" class="btn btn-primary btn-block" role="button"><i class="fa fa-external-link-square"></i> View</button></p>
+            </div>
+        </div>
+  	  </div>
+  
+  	</div>
+  </div>
+ 
+
+

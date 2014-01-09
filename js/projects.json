@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Zapslide",
+    "shortdesc": "Social Network",
+    "img": "img/zapslide.jpg",
+    "longdesc": "Zapslide is a social network and blogging platform that I created, it is a hobby site where I can curate content that I find interesting and also a playground where I can test different web development ideas",
+    "link": "http://zapslide.com"
+  },
+  {
+    "title": "Angular Ads",
+    "shortdesc": "AngularJS Directive",
+    "img": "img/angularads.jpg",
+    "longdesc": "Angular Ads is an open-source custom angular directive I made, it takes affiliate links and makes them into advertisement, I made it with the intentions of being a more control ad platform alternative to Google Adsense",
+    "link": "http://olaji.de/angular-ads"
+  },
+  {
+    "title": "Diary & Journal",
+    "shortdesc": "AngularJS Andrioid App",
+    "img": "img/dj.jpg",
+    "longdesc": "Diary and Journal is a mobile application built with phonegap and AngularJS, it is a HTML5 hybrid application that feels native and it is built with no dependency on jquery",
+    "link": "https://play.google.com/store/apps/details?id=com.zapslide.diaryjournal"
+  },
+  {
+    "title": "Olajide",
+    "shortdesc": "Personal Site",
+    "img": "img/olajide.jpg",
+    "longdesc": "olaji.de is my personal site which was built with the front-end bootstrap and a minimal design, the full domain is my first name, Olajide",
+    "link": "http://olaji.de"
+  },
+  {
+    "title": "Red October",
+    "shortdesc": "HTML5 game",
+    "img": "img/redoctober.jpg",
+    "longdesc": "Red October is a HTML5 game I made with the Japanese gaming framework enchant.js, it is made of 6 different mini-games",
+    "link": "http://olaji.de/red-october"
+  },
+  {
+    "title": "Johnny Manziel Timeline",
+    "shortdesc": "TimelineJS example",
+    "img": "img/johnny.jpg",
+    "longdesc": "The Johnny Manziel or Johnny football timeline is a timeline made with the TimelineJS and chronicles one of the most entertaining football player in America",
+    "link": "http://zapslide.com/ovo/johnny-football-timeline"
+  },
+  {
+    "title": "Harlem Shake",
+    "shortdesc": "3D Audio Visual",
+    "img": "img/harlemshake.jpg",
+    "longdesc": "The Harlem Shake project is a 3D audio visualization of a song that became viral over the internet, it uses ThreeJS and a new HTML5 api for audio",
+    "link": "http://olaji.de/harlem-shake"
+  },
+  {
+    "title": "MJ vs LBJ",
+    "shortdesc": "Google Graph API example",
+    "img": "img/mj.jpg",
+    "longdesc": "This project compares the statistics of two legendary NBA players, Michael Jordan and Lebron James, it uses Zurb's Foundation for the front-end and uses Google Graph API to display the data",
+    "link": "http://olaji.de/mj-vs-lbj"
+  },
+  {
+    "title": "Trig Practice",
+    "shortdesc": "Forms with Regular Expressions",
+    "img": "img/trig.jpg",
+    "longdesc": "I made this project to help quick me on the basic of trig identities while I was taking calculus in college, it uses AngularJS and a few regular expressions to match patterns",
+    "link": "http://olaji.de/trig"
+  },
+  {
+    "title": "UI Test",
+    "shortdesc": "Cogo Labs UI Test",
+    "img": "img/cogo.jpg",
+    "longdesc": "The Cogo Labs UI test was a UI challenge I took when I applied for Cogo Labs, I used AngularJS for my implementation",
+    "link": "http://olaji.de/cogo-test"
+  },
+  {
+    "title": "JqueryMobile Food",
+    "shortdesc": "Mobile Web Picture Gallery",
+    "img": "img/food.jpg",
+    "longdesc": "This project was made in a few hours at one of the first hackathons I participated in, it uses jQueryMobile",
+    "link": "http://food.zapslide.com"
+  },
+  {
+    "title": "Portfolio",
+    "shortdesc": "Project Site",
+    "img": "img/portfolio.jpg",
+    "longdesc": "My portfolio is a place where I keep my personal projects, it uses AngularJS and bootstrap for the front-end",
+    "link": "http://olaji.de/portfolio"
+  }
+
+]

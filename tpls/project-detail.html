@@ -1,0 +1,19 @@
+<div class="aside" tabindex="-1" role="dialog"> 
+        <div class="aside-dialog">
+          <div class="aside-content">
+            <div class="aside-header" ng-show="title">
+              <button type="button" class="close" ng-click="$hide()">&times;</button>
+              <h4 class="aside-title">{{project.title}}</h4>
+            </div>
+            <div class="aside-body">
+               <img ng-src="{{project.img}}" alt="...">
+
+               <p class="long-desc">{{project.longdesc}}</p>
+               <p><strong>Visit Site:</strong><a target="_blank" href="{{project.link}}"> {{project.link}}</a></p>
+            </div> 
+            <div class="aside-footer">
+              <button type="button" class="btn btn-default" ng-click="$hide()">Close</button> 
+            </div> 
+          </div> 
+        </div> 
+      </div>
