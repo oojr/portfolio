@@ -7,6 +7,13 @@
     "link": "http://zapslide.com"
   },
   {
+    "title": "Inspiration",
+    "shortdesc": "Realtime Web App",
+    "img": "img/inspiration.jpg",
+    "longdesc": "Inspiration is a realtime web app with Firebase, it features elegant svbtle-style kudos buttons and the logic is controlled with AngularJS",
+    "link": "http://olaji.de/inspiration"
+  },
+  {
     "title": "Angular Ads",
     "shortdesc": "AngularJS Directive",
     "img": "img/angularads.jpg",
