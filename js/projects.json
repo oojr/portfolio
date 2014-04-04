@@ -13,6 +13,14 @@
     "longdesc": "Inspiration is a realtime web app with Firebase, it features elegant svbtle-style kudos buttons and the logic is controlled with AngularJS",
     "link": "http://olaji.de/inspiration"
   },
+ 
+  {
+    "title": "Bitaware",
+    "shortdesc": "Coinbase Application",
+    "img": "img/bitaware.jpg",
+    "longdesc": "Bitaware was made for a hackathon app for Coinbase competition, it uses the OAuth2 Library PassportJS to go along with the NodeJS backend. It also has Firebase and AngularJS on the front end",
+    "link": "http://bitaware.herokuapp.com"
+  },
   {
     "title": "Angular Ads",
     "shortdesc": "AngularJS Directive",
@@ -21,8 +29,15 @@
     "link": "http://olaji.de/angular-ads"
   },
   {
+    "title": "Shoobx Hangman",
+    "shortdesc": "NodeJS Hangman Game",
+    "img": "img/hman.jpg",
+    "longdesc": "Node JS on the backend, AngularJS on the front, hangman game created as a programming assignment for a startup called Shoobx",
+    "link": "http://mighty-plains-5391.herokuapp.com/"
+  },
+  {
     "title": "Diary & Journal",
-    "shortdesc": "AngularJS Andrioid App",
+    "shortdesc": "HTML5 Andrioid App",
     "img": "img/dj.jpg",
     "longdesc": "Diary and Journal is a mobile application built with phonegap and AngularJS, it is a HTML5 hybrid application that feels native and it is built with no dependency on jquery",
     "link": "https://play.google.com/store/apps/details?id=com.zapslide.diaryjournal"
