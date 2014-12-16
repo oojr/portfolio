@@ -1,19 +1,34 @@
 [
   {
+    "title": "Inspiration",
+    "shortdesc": "Realtime Web App",
+    "img": "img/inspiration.jpg",
+    "longdesc": "Inspiration is a small realtime web app with Firebase, it features elegant svbtle-style kudos buttons and the logic is controlled with AngularJS",
+    "link": "http://olaji.de/inspiration"
+  },
+
+  {
+    "title": "BatPup",
+    "shortdesc": "React JS Mobile App",
+    "img": "img/puppy.png",
+    "longdesc": "BatPup: Puppy Battery Status is an android app built with ReactJS it leverages a native device api through cordova",
+    "link": "http://olaji.de/react-stagger-menu"
+  },
+  {
+    "title": "React Stagger Menu",
+    "shortdesc": "Menu Component",
+    "img": "img/stagger.png",
+    "longdesc": "React Stagger Menu is a reactjs component with fast animations, it is powered by a gulp and browserify build tool",
+    "link": "https://play.google.com/store/apps/details?id=com.zapslide.batpup"
+  },
+  {
     "title": "Zapslide",
     "shortdesc": "Social Network",
     "img": "img/zapslide.jpg",
     "longdesc": "Zapslide is a social network and blogging platform that I created, it is a hobby site where I can curate content that I find interesting and also a playground where I can test different web development ideas",
     "link": "http://zapslide.com"
   },
-  {
-    "title": "Inspiration",
-    "shortdesc": "Realtime Web App",
-    "img": "img/inspiration.jpg",
-    "longdesc": "Inspiration is a realtime web app with Firebase, it features elegant svbtle-style kudos buttons and the logic is controlled with AngularJS",
-    "link": "http://olaji.de/inspiration"
-  },
- 
+
   {
     "title": "Bitaware",
     "shortdesc": "Coinbase Application",
