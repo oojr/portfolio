@@ -12,14 +12,14 @@
     "shortdesc": "React JS Mobile App",
     "img": "img/puppy.png",
     "longdesc": "BatPup: Puppy Battery Status is an android app built with ReactJS it leverages a native device api through cordova",
-    "link": "http://olaji.de/react-stagger-menu"
+    "link": "https://play.google.com/store/apps/details?id=com.zapslide.batpup"
   },
   {
     "title": "React Stagger Menu",
     "shortdesc": "Menu Component",
     "img": "img/stagger.png",
     "longdesc": "React Stagger Menu is a reactjs component with fast animations, it is powered by a gulp and browserify build tool",
-    "link": "https://play.google.com/store/apps/details?id=com.zapslide.batpup"
+    "link": "http://olaji.de/react-stagger-menu"
   },
   {
     "title": "Zapslide",
